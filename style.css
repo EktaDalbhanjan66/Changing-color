@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box
+
+}
+body{
+    background-color: rgb(44, 36, 36);
+    color :aliceblue;
+    text-align: center;
+}
+div{
+    margin: 5rem;
+    
+}
+button{
+padding:5rem;
+cursor: pointer;
+border-radius: 1.5rem;
+font-size: 30px;
+
+}
+
+#stop{
+    margin:1.5rem
+}
